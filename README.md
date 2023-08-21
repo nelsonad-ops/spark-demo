@@ -45,6 +45,12 @@ $ spark-submit --kill spark:spark-pi* --master  k8s://https://192.168.2.8:8443
 benchmark TPC-DS
 http://www.openkb.info/2021/02/how-to-generate-tpc-ds-data-and-run-tpc.html
 
+https://hub.docker.com/r/apache/spark
+https://github.com/databricks/spark-perf
+https://www.datamechanics.co/blog-post/apache-spark-performance-benchmarks-show-kubernetes-has-caught-up-with-yarn
+https://www.datamechanics.co/blog-post/migrating-from-emr-to-spark-on-kubernetes-with-data-mechanics
+https://github.com/apache/spark/blob/master/docs/running-on-kubernetes.md
+
 
 
 
